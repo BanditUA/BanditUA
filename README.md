@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Mariia 👋
 
 <!--
 **BanditUA/BanditUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Cybersecurity student | Independent developer who learns by doing **
+
+I'm a final-year cybersecurity student. My foundation is built on reverse engineering, network security, web application security and risk analysis. 
+
+- **Currently building:** A Privacy-First AI Companion.
+- **Currently learning:** Everything in cybersecurity I didn't know before
+- **Fun Fact:** I'm also learning French!
+- **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mariia-tserman-249195377/)
