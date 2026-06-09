@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Cybersecurity student | Independent developer who learns by doing **
+Cybersecurity student and independent developer who learns by doing 
 
 I'm a final-year cybersecurity student. My foundation is built on reverse engineering, network security, web application security and risk analysis. 
 
